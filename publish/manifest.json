@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.07903a75de5449b69fadbd0a882f57e7.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.6b625853074eee89403b8af4d4ed30b8.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.f28552eda97c2c620a64abdbcdae366d.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.4ab123a1d901a95732480c67ff6639ca.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.7fdb02cfa83e312aa6e36f75512bb9e2.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "Caredan",
+  "short_name": "Caredan",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Semi-jóias pica",
+  "background_color": "#ffffff",
+  "theme_color": "#3f3f3f"
+}
