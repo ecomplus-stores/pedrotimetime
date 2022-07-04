@@ -4,7 +4,7 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 9000,
+      "autoplay": 5000,
       "full_width": false,
       "slides": [
         {
@@ -16,7 +16,7 @@
           "mobile_img": "/img/uploads/headphone.webp"
         },
         {
-          "img": "/img/uploads/banner2.webp",
+          "img": "/img/uploads/rect859.png",
           "alt": "Banner sample two",
           "start": "",
           "end": "",
